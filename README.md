@@ -14,7 +14,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/swisstronik-erc-20.git
+    git clone https://github.com/phat-kafi/swisstronik-erc-20.git
     cd swisstronik-erc-20
     ```
 
